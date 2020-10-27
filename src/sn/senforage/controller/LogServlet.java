@@ -17,7 +17,7 @@ import sn.senforage.entities.Responsables;
  * Servlet implementation class Test
  */
 @WebServlet(urlPatterns = "/Test", name = "Test")
-public class Test extends HttpServlet {
+public class LogServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private IResponsables responsablesdao= new ResponsablesImpl();
 
@@ -25,7 +25,7 @@ public class Test extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Test() {
+    public LogServlet() {
     	
 
        

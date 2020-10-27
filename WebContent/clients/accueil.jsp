@@ -261,7 +261,7 @@
               </a>
             <ul class="sub">
               <li><a href="Ajouvillageois">Ajouter Clients</a></li>
-              <li><a href="Ajouvillageois">Liste Clients</a></li>
+              <li><a href="listServlet">Liste Clients</a></li>
 
             </ul>
           </li>
@@ -274,7 +274,7 @@
             <ul class="sub">
           
               <li><a href="form_validation.jsp">Ajouter Village</a></li>
-              <li><a href="form_validation.jsp">Liste Village</a></li>
+              <li><a href="listServlet">Liste Village</a></li>
 
             </ul>
           </li>
